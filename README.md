@@ -1,4 +1,4 @@
-# mycode (Project Title)
+# mycode
 
 alta3 course
 
