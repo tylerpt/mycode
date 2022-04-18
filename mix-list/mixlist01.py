@@ -18,3 +18,13 @@ print("The last item in the list (state): " + my_list[2] )
 iplist = [ 5060, "80", 55, "10.0.0.1", "10.20.30.1", "ssh" ]
 
 print('ip addresses only: ', iplist[3], ' & ', iplist[4])
+
+#challenge 2
+
+#prompting for input
+print('what\'s your IP address?') 
+
+#gathering input from user & appending to iplist as a str
+iplist.append(input())
+
+print(iplist)
