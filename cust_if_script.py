@@ -10,3 +10,5 @@ elif user_temp <= "66":
     print("too cold!")
 elif user_temp <= "71":
     print("a little cool")
+else:
+    print("please enter your answer as a number")
