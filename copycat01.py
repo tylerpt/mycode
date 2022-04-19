@@ -1,9 +1,7 @@
 #!/usr/bin/env python3
 
-
 import shutil
 import os
-
 
 def main():
     os.chdir("/home/student/mycode/") # move cwd
