@@ -6,8 +6,8 @@ rps = {"rock":1, "paper":2, "scissors":3}
 
 if answer == "y":
     choice = input("Choose rock, paper, or scissors: ")
-    #our_choice = random.choice(["rock", "paper", "scissors"])
-    our_choice = ('scissors')
+    our_choice = random.choice(["rock", "paper", "scissors"])
+    #our_choice = ('scissors')
     #print(choice, our_choice)
     print('i chose', our_choice)
     while choice == "rock":
